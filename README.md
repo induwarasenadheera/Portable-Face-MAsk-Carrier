@@ -7,10 +7,10 @@ When people go out to eat and drink, they often tend to put their mask in a trou
 - Power bank which has a 6000mAh capacity and 1000+ rechargeable cycles.
 - An Enclosure which is portable and fashionable that can carry a single face mask.
 ## Enclosure
-![Enclosure](https://github.com/induwarasenadheera/Portable-Face-Mask-Carrier/blob/main/Photoes/Enclousure%20(1).jpeg)
+![Enclosure](https://github.com/induwarasenadheera/Portable-Face-Mask-Carrier/blob/main/Photos/Enclousure%20(1).jpeg)
 ## PCB Layout
 <p align="center">
-  <img src="https://github.com/induwarasenadheera/Portable-Face-Mask-Carrier/blob/main/Photoes/pcb.jpeg" width="250" title="PCB">
-  <img src="https://github.com/induwarasenadheera/Portable-Face-Mask-Carrier/blob/main/Photoes/front%20view.jpeg" width="250" alt="Front View">
-  <img src="https://github.com/induwarasenadheera/Portable-Face-Mask-Carrier/blob/main/Photoes/backview.jpeg" width="250" alt="Back View">
+  <img src="https://github.com/induwarasenadheera/Portable-Face-Mask-Carrier/blob/main/Photos/pcb.jpeg" width="250" title="PCB">
+  <img src="https://github.com/induwarasenadheera/Portable-Face-Mask-Carrier/blob/main/Photos/front%20view.jpeg" width="250" alt="Front View">
+  <img src="https://github.com/induwarasenadheera/Portable-Face-Mask-Carrier/blob/main/Photos/backview.jpeg" width="250" alt="Back View">
 </p>
